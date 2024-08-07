@@ -127,3 +127,16 @@ int main()
     solveNQ(N);
     return 0;
 }
+
+// ************************OUTPUT-1************************
+
+// Enter the number of queens: 4
+// # # Q #
+// Q # # #
+// # # # Q
+// # Q # #
+
+// ************************OUTPUT-2************************
+
+// Enter the number of queens: 3
+// Solution does not exist
