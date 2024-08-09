@@ -27,14 +27,8 @@ int main()
     return 0;
 }
 
-// Enter the no. of objects:4
-
-// Enter the knapsack capacity:5
-
-// Enter profit followed by weight:
+// Enter the no. of objects:4  Enter the knapsack capacity:5  Enter profit followed by weight:
 // 12 3
 // 43 5
 // 45 2
-// 55 3
-
-// Max profit=100
+// 55 3  Max profit=100

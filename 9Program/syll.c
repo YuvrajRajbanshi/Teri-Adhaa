@@ -28,12 +28,10 @@ void main()
             }
         }
 
-        if (min != i)
-        {
-            temp = a[i];
-            a[i] = a[min];
-            a[min] = temp;
-        }
+        temp = a[i];
+        a[i] = a[min];
+        a[min] = temp;
+        // }
     }
 
     printf("\nArray elements after sorting : \n");

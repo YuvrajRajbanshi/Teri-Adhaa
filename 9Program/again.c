@@ -9,14 +9,11 @@ void selection(int arr[], int n)
         min = i;
         for (j = i + 1; j < n; j++)
         {
-
             if (arr[min] > arr[j])
             {
                 min = j;
             }
-
             // swapping
-
             int temp = arr[min];
             arr[min] = arr[i];
             arr[i] = temp;
